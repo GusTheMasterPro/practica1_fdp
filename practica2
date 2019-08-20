@@ -1,0 +1,17 @@
+Uganda55:~ alumno$ mkdir practica2 
+Uganda55:~ alumno$ cd practica2/
+Uganda55:practica2 alumno$ mkdir fdp
+Uganda55:practica2 alumno$ mkdir calculo
+Uganda55:practica2 alumno$ mkdir quimica
+Uganda55:practica2 alumno$ mkdir algebra
+Uganda55:practica2 alumno$ mkdir fisica
+Uganda55:practica2 alumno$ cd fdp
+Uganda55:fdp alumno$ touch archivo.txt
+Uganda55:fdp alumno$ echo "AvilaZapataGustavoAdrian317261082" >> archivo.txt
+Uganda55:fdp alumno$ cat archivo.txt 
+AvilaZapataGustavoAdrian317261082
+Uganda55:fdp alumno$ cp archivo.txt ../calculo/
+Uganda55:fdp alumno$ cp archivo.txt ../fisica/
+Uganda55:fdp alumno$ cp archivo.txt ../quimica/
+Uganda55:fdp alumno$ cp archivo.txt ../algebra/
+Uganda55:fdp alumno$ 
