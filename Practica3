@@ -9,6 +9,7 @@ Algoritmo
 2.- Un algoritmo que lea dos números y calcule suma, resta de esos dos numeres, multiplicación, y división
 -Datos de entrada: Dos números reales
 -Datos de salida: La impresión de la suma, resta, multiplicación y división de dos números
+Algoritmo
 1)Leer número 1 y número 2
 2)Sumar número 1 con número 2
 3)Restar número 1 con número 2
@@ -18,6 +19,7 @@ Algoritmo
 3.- Leer 3 números que van a denotar una fecha de día mes y año. verificar si es una fecha valida
 -Datos de entrada: Números enteros
 -Datos de salida: Impresión de una fecha
+Algoritmo
 1)Leer número 1, número 2 y número 3
 2)El número 1 debe de ser mayor a cero y menor a 32
 3)El número 2 debe ser mayor a o y menor a 12
